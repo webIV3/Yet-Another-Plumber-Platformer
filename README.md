@@ -2,7 +2,7 @@
 ## First video game programmed with Unity.
 
 
-
+### Available on Windows & Android!
 ### CONTROLS
 
 *(Keyboard and XInput controller)*
